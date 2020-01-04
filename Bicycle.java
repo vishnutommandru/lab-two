@@ -1,6 +1,6 @@
 
 
-class Demo 
+class Bicycle   
 { 
 
     public int gear; 
